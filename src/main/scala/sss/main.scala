@@ -1,3 +1,5 @@
+package sss
+
 import java.util.Calendar
 
 object main extends App{
